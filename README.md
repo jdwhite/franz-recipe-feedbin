@@ -17,5 +17,5 @@ To install a new recipe:
 - The stock Feedbin icon doesn't look good in either dark or light mode, so
 the color was changed.
 
-## How to create your own Franz recipes:
-* [Read the documentation.](https://github.com/meetfranz/plugins)
+## References
+* [Franz Integration Documentation](https://github.com/meetfranz/plugins/tree/master/docs)
